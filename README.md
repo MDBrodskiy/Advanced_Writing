@@ -20,6 +20,7 @@
 ## Table of Contents
 
 * [**Project 1**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%201/)
+    * [**Disciplinary Introduction**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%201/Project1.pdf)
 
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
