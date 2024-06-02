@@ -24,6 +24,7 @@
 * [**Project 2**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%202/)
     * [**Sources**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%202/SourceInformation.pdf)
     * [**Researched Solutions**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%202/Project2.pdf)
+    * [**Peer Review Memo**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%202/memo.pdf)
 
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
