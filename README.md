@@ -28,6 +28,8 @@
 * [**Project 3**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%203/)
     * [**Article**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%203/Project3.pdf)
     * [**Peer Review Memo**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%203/memo.pdf)
+* [**Project 4**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%204/)
+    * [**Final Reflection**](https://github.com/MDBrodskiy/Advanced_Writing/tree/master/Project%204/Project4.pdf)
 
 <!--
   * [**Chapter 1**](#Notes/Chapter\ 1)
